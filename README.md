@@ -2,7 +2,7 @@
 
 # Hi, I'm Katalin 👋
 
-AI-assisted Virtual Assistant and aspiring front-end developer focused on building clean, fast, user-friendly digital experiences. I combine organisation, automation, and modern web tools to create simple, effective solutions for businesses and creators.
+Front-end developer passionate about building clean, fast, and user-friendly digital experiences. I enjoy creating structured layouts, smooth interactions, and intuitive websites that feel effortless to use. Focused on writing maintainable code and designing interfaces that balance simplicity, performance, and usability.
 
 
 🌍 **Based in:** United Kingdom  
