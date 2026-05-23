@@ -25,7 +25,6 @@ Front-end developer passionate about building clean, fast, and user-friendly dig
 - Flexbox & Grid  
 - Basic DOM manipulation  
 - Building clean, structured layouts  
-- WordPress (editing & optimisation)
 
 ### Tools & Cloud
 - Visual Studio Code  
